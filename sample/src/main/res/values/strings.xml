@@ -3,9 +3,9 @@
 
     <string name="app_name">Material DateTimePicker</string>
     <string name="title_activity_main">DateTimePicker Example</string>
-    <string name="selected_time">The time you picked will be shown here.</string>
-    <string name="selected_date">The date you picked will be shown here.</string>
-    <string name="selected_datetime">The date and time you picked will be shown here.</string>
+    <string name="selected_time">The time you picked will be shown here.:您选择的时间将在这里显示</string>
+    <string name="selected_date">The date you picked will be shown here.:您选择的日期将在这里显示。</string>
+    <string name="selected_datetime">The date and time you picked will be shown here.：您选择的日期和时间将在这里显示。</string>
     <string name="pick_time">Pick Time</string>
     <string name="pick_date">Pick Date</string>
     <string name="original_button">Framework Picker</string>
@@ -13,19 +13,19 @@
     <string name="mode_24_hours">Use 24 hour mode</string>
     <string name="mode_dark">Use dark theme</string>
     <string name="mode_custom_accent">Use custom accent</string>
-    <string name="vibrate">Vibrate on touch</string>
-    <string name="dismiss">Dismiss on pause (eg: orientation change)</string>
+    <string name="vibrate">Vibrate on touch：触摸时震动</string>
+    <string name="dismiss">Dismiss on pause (eg: orientation change)：暂停解散(如:方向改变)</string>
     <string name="title">Show a title</string>
-    <string name="show_version_2">Use marshmallow layout</string>
-    <string name="show_year_first">Show the year picker first</string>
-    <string name="enable_seconds">Show seconds picker</string>
-    <string name="enable_minutes">Show minutes picker</string>
-    <string name="limit_times">Limit selectable times</string>
-    <string name="limit_dates">Limit selectable dates</string>
-    <string name="disable_dates">Disable specific dates</string>
-    <string name="disable_times">Disable specific times</string>
-    <string name="highlight_dates">Highlight certain dates</string>
-    <string name="switch_orientation">Switch scroll orientation</string>
+    <string name="show_version_2">Use marshmallow layout:使用棉花糖布局</string>
+    <string name="show_year_first">Show the year picker first:首先展示年份选择器。</string>
+    <string name="enable_seconds">Show seconds picker:显示秒选择器</string>
+    <string name="enable_minutes">Show minutes picker:显示分钟选择器</string>
+    <string name="limit_times">Limit selectable times:可选择的时间限制</string>
+    <string name="limit_dates">Limit selectable dates:限制可选择的日期</string>
+    <string name="disable_dates">Disable specific dates:禁用具体日期</string>
+    <string name="disable_times">Disable specific times:禁用具体时间</string>
+    <string name="highlight_dates">Highlight certain dates:强调特定的日期</string>
+    <string name="switch_orientation">Switch scroll orientation:开关方向滚动</string>
     <string name="action_settings">Settings</string>
 
     <string name="tab_title_time">Time</string>
